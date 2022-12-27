@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "TCC MBA"
+rootProject.name = "TCC MBA X"
 include ':app'

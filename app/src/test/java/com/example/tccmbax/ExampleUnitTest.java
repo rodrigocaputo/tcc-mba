@@ -1,4 +1,4 @@
-package com.example.tccmba;
+package com.example.tccmbax;
 
 import org.junit.Test;
 

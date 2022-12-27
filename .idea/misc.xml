@@ -3,11 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBA/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBA/app/src/main/res/layout/fragment_home.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBA/app/src/main/res/layout/fragment_slideshow.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBA/app/src/main/res/layout/nav_header_main.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBA/app/src/main/res/menu/main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBAX/app/src/main/res/layout/activity_camera.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBAX/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rodri/AndroidStudioProjects/TCCMBAX/app/src/main/res/layout/fragment_home.xml" value="0.19791666666666666" />
       </map>
     </option>
   </component>

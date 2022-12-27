@@ -1,15 +1,16 @@
-package com.example.tccmba.ui.gallery;
+package com.example.tccmbax.ui.gallery;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.support.annotation.NonNull;
-import android.support.v4.app.Fragment;
-import android.arch.lifecycle.ViewModelProvider;
 
-import com.example.tccmba.databinding.FragmentGalleryBinding;
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProvider;
+
+import com.example.tccmbax.databinding.FragmentGalleryBinding;
 
 public class GalleryFragment extends Fragment {
 
@@ -18,7 +19,7 @@ public class GalleryFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         GalleryViewModel galleryViewModel =
-                new ViewModelProvider(this, new ViewModelProvider.NewInstanceFactory()).get(GalleryViewModel.class);
+                new ViewModelProvider(this).get(GalleryViewModel.class);
 
         binding = FragmentGalleryBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
